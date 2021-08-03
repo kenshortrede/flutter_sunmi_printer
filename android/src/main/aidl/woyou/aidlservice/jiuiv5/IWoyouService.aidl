@@ -15,7 +15,7 @@ interface IWoyouService
 	
 	int getFirmwareStatus();
 	
-	/**
+	
    
 	String getServiceVersion();	
 	
